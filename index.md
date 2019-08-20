@@ -106,6 +106,7 @@ En caso de alguna situación extraordinaria se deberá platicarlo con la directo
 
 - [Clase 1 - Introducción](https://github.com/leonpalafox/dbclase_2019/blob/master/Slides/Clase_1_2019.pdf)
 - [Clase 2 - Modelo Relacional](https://github.com/leonpalafox/dbclase_2019/blob/master/Slides/Clase_2_2019.pdf)
+- [Clase 3 - Modelos De Bases de Datos](https://github.com/leonpalafox/dbclase_2019/blob/master/Slides/Clase_3_2019.pdf)
 
 
 # Ejercicios en Python
