@@ -119,7 +119,8 @@ En caso de alguna situación extraordinaria se deberá platicarlo con la directo
 
 # Sets de Datos
 
--[]
+- [Estados](https://raw.githubusercontent.com/leonpalafox/dbclase_2019/master/datasets/estados.csv)
+- [Indicadores (Recortado)](https://raw.githubusercontent.com/leonpalafox/dbclase_2019/master/datasets/indicadores_short.csv)
 
 
 # Ejercicios en Python
