@@ -112,6 +112,14 @@ En caso de alguna situación extraordinaria se deberá platicarlo con la directo
 - [Clase 6 - Ejemplos](https://github.com/leonpalafox/dbclase_2019/blob/master/Slides/Clase_6_2019.pdf)
 - [Clase 7 - Entidad Relación](https://github.com/leonpalafox/dbclase_2019/blob/master/Slides/Clase_7_2019.pdf)
 - [Clase 8 - Algebra Relacional](https://github.com/leonpalafox/dbclase_2019/blob/master/Slides/Clase_8_2019.pdf)
+- [Clase 9 - Algebra Relacional](https://github.com/leonpalafox/dbclase_2019/blob/master/Slides/Clase_8_2019.pdf)
+- [Clase 10 - Algebra Relacional](https://github.com/leonpalafox/dbclase_2019/blob/master/Slides/Clase_8_2019.pdf)
+- [Clase 11 - Algebra Relacional/SQL](https://github.com/leonpalafox/dbclase_2019/blob/master/Slides/Clase_8_2019.pdf)
+- [Clase 12 - SQL](https://github.com/leonpalafox/dbclase_2019/blob/master/Slides/Clase_8_2019.pdf)
+
+# Sets de Datos
+
+-[]
 
 # Ejercicios en Python
 
