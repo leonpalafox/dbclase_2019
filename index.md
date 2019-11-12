@@ -121,6 +121,7 @@ En caso de alguna situación extraordinaria se deberá platicarlo con la directo
 
 - [Estados](https://raw.githubusercontent.com/leonpalafox/dbclase_2019/master/datasets/estados.csv)
 - [Indicadores (Recortado)](https://raw.githubusercontent.com/leonpalafox/dbclase_2019/master/datasets/indicadores_short.csv)
+- [Equipos](https://raw.githubusercontent.com/leonpalafox/dbclase_2019/master/datasets/euro.sql)
 
 
 # Ejercicios en Python
