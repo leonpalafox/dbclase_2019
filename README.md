@@ -125,6 +125,7 @@ En caso de alguna situación extraordinaria se deberá platicarlo con la directo
 
 # Ejercicios en Python
 
+- [Cuaderno de Colab para conectar una base de datos SQL](https://colab.research.google.com/drive/1YAutFlSlVB1SSjSHua4WPaM4wQQ_tWOs)
 
 
 # Tareas
